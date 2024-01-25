@@ -2,4 +2,18 @@
 <resources>
     <color name="black">#FF000000</color>
     <color name="white">#FFFFFFFF</color>
+    <color name="purple_700">#7B1FA2</color>
+    <color name="teal_700">#00796B</color>
+    <color name="difficulty_level_easy">@android:color/holo_green_light</color>
+    <color name="difficulty_level_normal">@android:color/holo_orange_light</color>
+    <color name="difficulty_level_hard">@android:color/holo_red_light</color>
+    <color name="game_timer">@color/purple_700</color>
+    <color name="game_sum_background">@color/purple_700</color>
+    <color name="game_question_background">@color/teal_700</color>
+    <color name="game_option_1_background">@android:color/holo_green_light</color>
+    <color name="game_option_2_background">@android:color/holo_orange_light</color>
+    <color name="game_option_3_background">@android:color/holo_blue_bright</color>
+    <color name="game_option_4_background">@android:color/holo_blue_light</color>
+    <color name="game_option_5_background">@android:color/holo_red_light</color>
+    <color name="game_option_6_background">@android:color/holo_purple</color>
 </resources>

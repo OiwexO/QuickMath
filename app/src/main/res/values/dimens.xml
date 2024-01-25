@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="welcome_fragment_logo_height">150dp</dimen>
+    <dimen name="welcome_fragment_logo_margin">32dp</dimen>
+    <dimen name="welcome_fragment_app_name_margin">16dp</dimen>
+    <dimen name="welcome_fragment_app_name_text_size">24sp</dimen>
+    <dimen name="welcome_fragment_rules_text_size">16sp</dimen>
+    <dimen name="welcome_fragment_rules_margin">16dp</dimen>
+    <dimen name="choose_level_fragment_title_margin">16dp</dimen>
+    <dimen name="choose_level_fragment_title_text_size">24sp</dimen>
+    <dimen name="choose_level_fragment_level_margin">16dp</dimen>
+    <dimen name="game_fragment_timer_margin">8dp</dimen>
+    <dimen name="game_fragment_timer_text_size">24sp</dimen>
+    <dimen name="game_fragment_sum_field_size">144dp</dimen>
+    <dimen name="game_finished_fragment_emoji_margin">48dp</dimen>
+    <dimen name="game_finished_fragment_answers_required_margin">16dp</dimen>
+    <dimen name="game_finished_fragment_answers_required_text_size">18sp</dimen>
+    <dimen name="game_finished_fragment_score_text_size">18sp</dimen>
+    <dimen name="game_finished_fragment_percentage_required_margin_top">16dp</dimen>
+    <dimen name="game_finished_fragment_percentage_required_text_size">18sp</dimen>
+    <dimen name="game_finished_fragment_score_percentage_margin_top">16dp</dimen>
+    <dimen name="game_finished_fragment_score_percentage_text_size">18sp</dimen>
+</resources>
